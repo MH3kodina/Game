@@ -1,2 +1,6 @@
 print("hello")
-pring ("hello there")
+print ("hello there")
+x = 1
+y = 3
+sum = x + y
+print (sum)
